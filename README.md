@@ -14,12 +14,7 @@ The process of breaking the input string into tokens is called lexical analysis.
 
 Valid expressions for Calc1 : ( simple addition operation interpreter )
 
-calc> 3+5
-8
-calc> 2+7
-9
-calc> 7+3
-10
+![alt text](https://image.ibb.co/j1Fx26/1.jpg)
 
 we'll develop this code later. in this way this interpreter only can  add up digits not numbers.
 
