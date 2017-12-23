@@ -47,7 +47,8 @@ struct Token* get_next_token(){
 
 void error()
 {
-	printf("Error parsing input");
+	printf("Error parsing input\n");
+	exit(-1);
 }
 
 void eat(char *token_type)
