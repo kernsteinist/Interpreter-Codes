@@ -2,7 +2,7 @@
 
 codes are about basic interpreter / compiler. i read ruslan spivak blog and he wrote articles about writing interpreter / compiler. 
 
-That codes wrote in python. i'll convert that codes to c codes.   
+That codes were wrote in python. i'll convert that codes to c codes.   
 
 # Calc1.c - Addition  
 understanding on token, lexical analysis. 
