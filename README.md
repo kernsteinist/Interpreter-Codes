@@ -33,9 +33,9 @@ The process of finding the structure in the stream of tokens, or put differently
 
 by the way, we fixed below issues.
 
-1.Handle whitespace characters anywhere in the input string
-2.Consume multi-digit integers from the input
-3.Subtract two integers (currently it can only add integers)
+*Handle whitespace characters anywhere in the input string
+*Consume multi-digit integers from the input
+*Subtract two integers (currently it can only add integers)
 
 
 
