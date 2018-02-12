@@ -58,9 +58,10 @@ int integer()
 		k++;
 	}
     
-    int retInt = atoi(result);
+	int retInt = atoi(result);
 	free(result);  
-    return retInt;
+	
+	return retInt;
 }		
 
 struct Token* get_next_token()
