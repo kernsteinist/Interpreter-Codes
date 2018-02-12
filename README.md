@@ -31,6 +31,11 @@ MINUS   | -
 
 The process of finding the structure in the stream of tokens, or put differently, the process of recognizing a phrase in the stream of tokens is called parsing. The part of an interpreter or compiler that performs that job is called a parser.
 
+by the way, we fixed below issues.
+
+1.Handle whitespace characters anywhere in the input string
+2.Consume multi-digit integers from the input
+3.Subtract two integers (currently it can only add integers)
 
 
 
