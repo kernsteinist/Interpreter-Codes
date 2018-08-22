@@ -171,8 +171,5 @@ void main(void)
 		result = expr();
 
 		printf("%d\n",result);
-		
-		
-
 	}
 }
