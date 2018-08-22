@@ -1,6 +1,6 @@
 # Interpreter-Codes
 
-codes are about basic interpreter / compiler. i read this (https://ruslanspivak.com) blog and blog includes articles about writing interpreter / compiler but that codes were wrote in python. i'll convert that codes to c codes.  
+the codes are C version of the tutorial which you can reach from  (https://ruslanspivak.com). i'll convert the python codes in tutorials to c codes.  
 
 # Calc1.c - Addition  
 understanding on token, lexical analysis. 
@@ -37,5 +37,6 @@ by the way, we fixed below issues.
 2. Consume multi-digit integers from the input
 3. Subtract two integers (currently it can only add integers)
 
+# Calc3.c - The restriction is removed.
 
-
+maybe you realized that we cannot add up a lot of number in old version of our calculator. we fixed the issue in this version and  we can add as many numbers as we want to.
